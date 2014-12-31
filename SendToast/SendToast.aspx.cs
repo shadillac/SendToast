@@ -42,7 +42,7 @@ namespace SendToast
                    "<wp:Toast>" +
                         "<wp:Text1>" + TextBoxTitle.Text.ToString() + "</wp:Text1>" +
                         "<wp:Text2>" + TextBoxSubTitle.Text.ToString() + "</wp:Text2>" +
-                        "<wp:Param>/Page2.xaml?NavigatedFrom=Toast Notification</wp:Param>" +
+                        "<wp:Param>/Splash.xaml?NavigatedFrom=Toast Notification</wp:Param>" +
                    "</wp:Toast> " +
                 "</wp:Notification>";
 
